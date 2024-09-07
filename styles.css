@@ -82,8 +82,8 @@ body {
 
 .card {
     position: relative;
-    width: 500px;
-    height: 600px;
+    width: 360px;
+    height: 640px;
 }
 
 .card .card_landing {
